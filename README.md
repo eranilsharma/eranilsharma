@@ -1,48 +1,59 @@
-# Hi, I'm Anil Kumar 👋
+# 👋 Hi, I'm Anil Kumar
 
-**Senior Android Developer**  
-I am an experienced Senior Android Developer with over 9 years of expertise in developing high-performance, scalable applications for both product and service-based environments. I specialize in Kotlin, Jetpack Compose, Android SDK, Dependency Injection, Room DB, Firebase, and security-focused implementations like SSO, biometrics, and identity access management.
+**Senior Android Developer | 9+ Years of Experience**
 
-I have successfully delivered numerous applications, some of which are available on the Google Play Store, while others are used internally by businesses. Here are a few notable projects I have worked on:
+I’m a seasoned Android developer with 9+ years of experience building high-performance, scalable applications across both product and service domains. I specialize in modern Android development using **Kotlin**, **Jetpack Compose**, and robust architectures like **MVVM** and **Clean Architecture**.
 
-📌 Jenny Craig
-📌 Pyrames Health
-📌 ClubCar
-📌 Revolt TV
-📌 Prep Guru
-📌 Youth4Work.com
-📌 Investkraft
-📌 IK Partner
+I've worked on several consumer-facing and enterprise apps — some live on the Google Play Store, others used internally at scale. A few notable ones include:
+
+🎯 Jenny Craig | Pyrames Health | ClubCar | Revolt TV  
+📚 Prep Guru | Youth4Work | Investkraft | IK Partner
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Core Java, Kotlin
-- **Frameworks & Libraries:** Jetpack Compose, MVVM, MVI, Unit Testing, UI Testing with Espresso, RoomDb, Android Jetpack Libraries
-- **Other:** Firebase, Ktor, MongoDB
+## 🛠️ Tech Stack
+
+- **Languages:** Kotlin, Java  
+- **UI:** Jetpack Compose, XML, Material 3  
+- **Architecture:** MVVM, MVI, Clean Architecture  
+- **Libraries:** Hilt, Retrofit, Room, DataStore, Coroutines, Flow, Paging 3  
+- **Tools:** Android Studio, Git, Firebase, Play Console  
+- **Testing:** JUnit, Espresso, MockK  
+- **Security:** SSO, Biometrics, IAM, Play Integrity API  
 
 ---
 
-### 🚀 Notable Projects
+## 🚀 Featured Projects
 
-- [Ktor-With-MongoDB](https://github.com/eranilsharma/Ktor-With-MongoDB):  
-  A robust backend starter using Ktor and MongoDB for scalable, modern apps.
+### 🧾 Investkraft Partner App  
+A B2B platform for partners to manage financial leads (loans, FDs, mutual funds, digital gold).  
+- Jetpack Compose + Material 3 UI  
+- Secure API integration with safe Retrofit calls  
+- Google Play In-App Update support  
 
-- [mvvm_sample](https://github.com/eranilsharma/mvvm_sample):  
-  Clean architecture Android sample project demonstrating MVVM, Jetpack Compose, and best practices.
+### 💰 Investkraft App  
+A B2C platform for users to apply for personal loans and explore financial products.  
+- Real-time PAN validation and identity checks  
+- Custom UI animations and form logic in Compose  
+
+### 🌐 [Ktor-With-MongoDB](https://github.com/eranilsharma/Ktor-With-MongoDB)  
+A clean backend starter template using Ktor + MongoDB.  
+- Built for scalable APIs  
+- Ideal for Kotlin-first mobile+backend stacks  
 
 ---
 
-### 👨‍💼 Connect with me
+## ✨ Fun Fact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/eranilsharma/)
+> I once debugged a memory leak in my sleep — and woke up with the fix!  
+> Outside work, I enjoy playing indie games and geeking out over minimalist UI design.
 
 ---
 
-### ✨ Fun Fact
+## 📬 Connect With Me
 
-> I once debugged a memory leak in my sleep — literally woke up with the solution!  
-> When I’m not working with Kotlin and Jetpack libraries, I love exploring indie mobile games for design inspiration.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/eranilsharma/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:eranilsharma.mee@gmail.com)
 
 ---
 
