@@ -25,13 +25,15 @@ I've worked on several consumer-facing and enterprise apps — some live on the 
 
 ## 🚀 Featured Projects
 
-### 🧾 Investkraft Partner App  
+### [Revolt TV](https://play.google.com/store/apps/details?id=com.zype.revolt)
+
+### 🧾 [Investkraft Partner App](https://play.google.com/store/apps/details?id=com.investkraft.partner)  
 A B2B platform for partners to manage financial leads (loans, FDs, mutual funds, digital gold).  
 - Jetpack Compose + Material 3 UI  
 - Secure API integration with safe Retrofit calls  
 - Google Play In-App Update support  
 
-### 💰 Investkraft App  
+### 💰 [Investkraft App](https://play.google.com/store/apps/details?id=com.investkraft)  
 A B2C platform for users to apply for personal loans and explore financial products.  
 - Real-time PAN validation and identity checks  
 - Custom UI animations and form logic in Compose  
