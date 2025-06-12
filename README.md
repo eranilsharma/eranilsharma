@@ -1,7 +1,7 @@
 # Hi, I'm Anil Kumar 👋
 
 **Senior Android Developer**  
-I am an experienced Senior Android Developer with over 8 years of expertise in developing high-performance, scalable applications for both product and service-based environments. I specialize in Kotlin, Jetpack Compose, Android SDK, Dependency Injection, Room DB, Firebase, and security-focused implementations like SSO, biometrics, and identity access management.
+I am an experienced Senior Android Developer with over 9 years of expertise in developing high-performance, scalable applications for both product and service-based environments. I specialize in Kotlin, Jetpack Compose, Android SDK, Dependency Injection, Room DB, Firebase, and security-focused implementations like SSO, biometrics, and identity access management.
 
 I have successfully delivered numerous applications, some of which are available on the Google Play Store, while others are used internally by businesses. Here are a few notable projects I have worked on:
 
